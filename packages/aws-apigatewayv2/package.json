@@ -1,0 +1,13 @@
+{
+  "name": "@abstract-rest/aws-apiigatewayv2",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.114"
+  },
+  "dependencies": {
+    "@aws-cdk/aws-apigatewayv2": "^1.198.1",
+    "duration-fns": "^3.0.2",
+    "http-status-codes": "^2.2.0"
+  }
+}
